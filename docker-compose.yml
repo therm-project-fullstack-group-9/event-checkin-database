@@ -1,4 +1,4 @@
-name: term-proj-g19
+name: term-proj-g9
 services:
   postgres:
     image: postgres:18-alpine
