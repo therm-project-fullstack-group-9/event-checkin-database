@@ -6,7 +6,6 @@ import {
   text,
   boolean,
   timestamp,
-  pgEnum,
 } from "drizzle-orm/pg-core";
 
 import { UserTable } from "./user.ts";
